@@ -79,6 +79,7 @@ class MaulanaAlbaihaqiArtanto extends SoftwareEngineer with SystemAnalyst {
 | 🏢 **HQS Website** | Landing page branding perusahaan untuk menampilkan informasi dan layanan | ReactJS |
 | 💈 **Barbershop Bintang'ss** | Aplikasi POS: pembayaran, pemesanan, logistik, manajemen staf, cuti, payroll, serta barang masuk/keluar | Flutter · REST API · Supabase |
 | 🧯 **Fire Extinguisher Inspection System** | Aplikasi web & Android untuk divisi SHE di PT Mekar Armada Jaya: inspeksi, pengadaan, laporan inspeksi, dan laporan keuangan (tim 2 orang) | Laravel · Blade · Flutter · MySQL · cPanel · GitLab |
+| 🧠 **Kraepelin psychological test** | web application tes psikologi untuk pendaftaran kerja di PT Mekar Armada Jaya: pembuatan soal, pendaftaran, pengerjaan, perhitungan nilai, laporan | Laravel · Livewire · Blade · MySQL · cPanel · GitLab |
 | 🏘️ **RW 13 Tegalsari** | Website manajemen kependudukan: registrasi warga, daftar warga yang perlu bantuan/kondisi medis khusus, pelaporan (tim 7 orang) | Laravel · Blade · MySQL · GitHub |
 
 ---
@@ -89,7 +90,6 @@ class MaulanaAlbaihaqiArtanto extends SoftwareEngineer with SystemAnalyst {
 
 - Mengembangkan sistem inspeksi APAR (web + Flutter)
 - Menambahkan fitur tes Kraepelin pada tes psikologi
-- Mengembangkan sistem Quality Control untuk mendeteksi cacat pada kendaraan produksi
 - Mengecek ulang API endpoint dari Back End Developer
 - Berkolaborasi dengan supervisor untuk bug fixing dan pembuatan business process diagram
 
@@ -101,10 +101,12 @@ class MaulanaAlbaihaqiArtanto extends SoftwareEngineer with SystemAnalyst {
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
+| 🇬🇧 Reading dan Listening | toeic. | 2025 |
 | 📊 Big Data Analyst Associate | Solusi247 | 2025 |
 | 🗃️ Database Programming with SQL | Oracle Academy | 2023 |
 | 🧮 JavaScript Algorithms and Data Structures | freeCodeCamp | 2025 |
 | 📱 Responsive Web Design | freeCodeCamp | 2025 |
+| 🛜 MTCNA | Mikrotik | 2025 |
 
 ---
 
