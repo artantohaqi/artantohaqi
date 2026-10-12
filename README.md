@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Maulana+Albaihaqi+Artanto;System+Analyst+%26+Software+Engineer;Laravel+%C2%B7+React+%C2%B7+Flutter;Open+to+relocation+%F0%9F%8C%8F)](https://www.portofoliomaulanaalbaihaqiartanto.my.id/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=artantohaqi&label=PROFILE%20VIEWS&color=7aa2f7&style=for-the-badge)
-
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT%20SITE-7aa2f7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.portofoliomaulanaalbaihaqiartanto.my.id/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulana-artanto-5a643a308)
 [![Email](https://img.shields.io/badge/EMAIL-SEND%20MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maulanaartanto04@gmail.com)
