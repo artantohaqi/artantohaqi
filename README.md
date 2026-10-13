@@ -101,7 +101,7 @@ class MaulanaAlbaihaqiArtanto extends SoftwareEngineer with SystemAnalyst {
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
-| 🇬🇧 Reading dan Listening | toeic. | 2025 |
+| 🇬🇧 Reading and Listening | toeic. | 2025 |
 | 📊 Big Data Analyst Associate | Solusi247 | 2025 |
 | 🗃️ Database Programming with SQL | Oracle Academy | 2023 |
 | 🧮 JavaScript Algorithms and Data Structures | freeCodeCamp | 2025 |
